@@ -15,7 +15,7 @@
 O script espera alguns parâmetros que devem ser fonecidos via linha de comando:
 
 <table>
-<tr><td><strong>Uso:</strong></td><td>eye_jud_converter.py [-h] [--assuntos [ASSUNTOS [ASSUNTOS ...]]] pastaRaiz {justica_eleitoral, justica_estadual, justica_federal, justica_militar, justica_trabalho, tribunais_superiores}</td></tr>
+<tr><td><strong>Uso:</strong></td><td>eye_jud_converter.py [-h] [--assuntos [ASSUNTO [ASSUNTO ...]]] pastaRaiz {justica_eleitoral, justica_estadual, justica_federal, justica_militar, justica_trabalho, tribunais_superiores}</td></tr>
 </table>
 <br />
 <br />
@@ -29,7 +29,7 @@ O script espera alguns parâmetros que devem ser fonecidos via linha de comando:
 <table>
 <tr><td colspan="3"><strong>Argumentos opcionais:</strong></td></tr>
 <tr><td>-h, --help</td><td>Exibe uma mensagem de help de utilização e sai do script.</td></tr>
-<tr><td>--assuntos [ASSUNTOS [ASSUNTOS ...]]</td><td>Lista de assuntos (números inteiros) para separar os arquivos CSVs (argumento opcional).</td></tr>
+<tr><td>--assuntos [ASSUNTO [ASSUNTO ...]]</td><td>Lista de assuntos (números inteiros) para separar os arquivos CSVs (argumento opcional).</td></tr>
 </table>
 <br />
 Caso seja fornecida uma lista de assuntos, serão gerados arquivos CSV para cada assunto, caso contrário, será gerado um único arquivo CSV com todos os assuntos.<br />
