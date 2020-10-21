@@ -29,9 +29,9 @@ O script espera alguns parâmetros que devem ser fonecidos via linha de comando:
 <br />
 <br />
 <table>
-<tr><td colspan="3"><strong>Argumentos opcionais:</strong></td>/td></tr>
+<tr><td colspan="3"><strong>Argumentos opcionais:</strong></td></tr>
 <tr><td></td><td>-h, --help</td><td>Exibe uma mensagem de help de utilização e sai do script.</td></tr>
-<tr><td></td><td>--assuntos [ASSUNTOS [ASSUNTOS ...]]</td><td>TLista de assuntos (números inteiros) para separar os arquivos CSVs (argumento opcional).</td></tr>
+<tr><td></td><td>--assuntos [ASSUNTOS [ASSUNTOS ...]]</td><td>Lista de assuntos (números inteiros) para separar os arquivos CSVs (argumento opcional).</td></tr>
 </table>
 <br />
 Caso seja fornecida uma lista de assuntos, serão gerados arquivos CSV para cada assunto, caso contrário, será gerado um único arquivo CSV com todos os assuntos.<br />
