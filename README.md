@@ -40,7 +40,7 @@ Caso seja fornecida uma lista de assuntos, serão gerados arquivos CSV para cada
 <strong>Exemplos de uso:</strong>
 > eye_jud_converter.py -h
 > eye_jud_converter.py . justica_militar
-> eye_jud_converter.py . justica_trabalho 9985 12734 1156 864 6191 8826 12467 
+> eye_jud_converter.py . justica_trabalho 9985 12734 1156 864 
 <br />
 <br />
 Os arquivos serão gerados na em uma pasta 'tmp' dentro da pasta raiz.
