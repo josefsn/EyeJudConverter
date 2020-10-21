@@ -23,7 +23,7 @@ O script espera alguns parâmetros que devem ser fonecidos via linha de comando:
 <br />
 <table>
 <tr><td colspan="3"><strong>Argumentos posicionais:</strong></td></tr>
-<tr><td></td><td>pastaRaiz</td><td>Caminho para a pasta raiz contendo a respectiva pasta do tipo de justiça e os arquivos auxiliares (sgt_assuntos.csv, sgt_classes.csv).</td></tr>
+<tr><td></td><td width="45%">pastaRaiz</td><td width="45%">Caminho para a pasta raiz contendo a respectiva pasta do tipo de justiça e os arquivos auxiliares (sgt_assuntos.csv, sgt_classes.csv).</td></tr>
 <tr><td></td><td>{justica_eleitoral,justica_estadual,justica_federal,justica_militar,justica_trabalho,tribunais_superiores}</td><td>Tipo de Justiça cujos CSVs serão gerados.</td></tr>
 </table>
 <br />
