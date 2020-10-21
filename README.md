@@ -15,9 +15,7 @@
 O script espera alguns parâmetros que devem ser fonecidos via linha de comando:
 
 <table>
-<tr><td><strong>Uso:</strong></td><td>eye_jud_converter.py [-h] [--assuntos [ASSUNTOS [ASSUNTOS ...]]]</td></tr>
-<tr><td></td><td>pastaRaiz</td></tr>
-<tr><td></td><td>{justica_eleitoral,justica_estadual,justica_federal,justica_militar,justica_trabalho,tribunais_superiores}</td></tr>
+<tr><td><strong>Uso:</strong></td><td>eye_jud_converter.py [-h] [--assuntos [ASSUNTOS [ASSUNTOS ...]]] pastaRaiz {justica_eleitoral, justica_estadual, justica_federal, justica_militar, justica_trabalho, tribunais_superiores}</td></tr>
 </table>
 <br />
 <br />
