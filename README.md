@@ -22,14 +22,14 @@ O script espera alguns parâmetros que devem ser fonecidos via linha de comando:
 <br />
 <br />
 <table>
-<tr><td><strong>Argumentos posicionais:</strong></td><td></td><td></td></tr>
+<tr><td colspan="3"><strong>Argumentos posicionais:</strong></td></tr>
 <tr><td></td><td>pastaRaiz</td><td>Caminho para a pasta raiz contendo a respectiva pasta do tipo de justiça e os arquivos auxiliares (sgt_assuntos.csv, sgt_classes.csv).</td></tr>
 <tr><td></td><td>{justica_eleitoral,justica_estadual,justica_federal,justica_militar,justica_trabalho,tribunais_superiores}</td><td>Tipo de Justiça cujos CSVs serão gerados.</td></tr>
 </table>
 <br />
 <br />
 <table>
-<tr><td><strong>Argumentos opcionais:</strong></td><td></td><td></td></tr>
+<tr><td colspan="3"><strong>Argumentos opcionais:</strong></td>/td></tr>
 <tr><td></td><td>-h, --help</td><td>Exibe uma mensagem de help de utilização e sai do script.</td></tr>
 <tr><td></td><td>--assuntos [ASSUNTOS [ASSUNTOS ...]]</td><td>TLista de assuntos (números inteiros) para separar os arquivos CSVs (argumento opcional).</td></tr>
 </table>
